@@ -1,0 +1,18 @@
+body {
+    background-color: #202020;
+}
+
+h1 {
+    color: #006616;
+    font-size: 15vh;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.helloWorld {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
