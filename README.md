@@ -7,6 +7,4 @@ There's a lot here, I'm gonna link both installations, and the commands to run t
 ## Zig
 Zig Installation Instructions [here](https://ziglang.org/learn/getting-started/).
 
-To run:
-
 `zig run helloworld.zig`
