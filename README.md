@@ -46,6 +46,18 @@ For all of these, navigate to the coresponding folder and open the index.html wi
 
 `java ./java/HelloWorld`
 
+### Perl
+---
+Perl is installed on most computers, check:
+
+`perl -v`
+
+To confirm it is installed on your computer
+
+[How to install Perl](https://www.perl.org/get.html)
+
+`perl ./perl/helloworld.pl`
+
 ### PHP
 ---
 I don't know how to run php on your local without installing something huge, make a pull request to fix this if there is a simple way
