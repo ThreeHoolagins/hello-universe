@@ -9,6 +9,7 @@ There's a lot here, I'm gonna link both installations, and the commands to run t
 [How to install C](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170)
 
 `cl ./c/helloworld.c`
+
 `./c/helloworld`
 
 ### C++ | Compiled
@@ -16,6 +17,7 @@ There's a lot here, I'm gonna link both installations, and the commands to run t
 [How to install C++](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170)
 
 `cl ./c++/helloworld.cpp`
+
 `./c++/helloworld`
 
 ### C# | Compiled
@@ -23,6 +25,7 @@ There's a lot here, I'm gonna link both installations, and the commands to run t
 [How to install C#](https://www.geeksforgeeks.org/how-to-execute-c-sharp-program-on-cmd-command-line/)
 
 `csc ./c#/helloworld.cs`
+
 `./c#/helloworld`
 
 ### CSS, HTML, and Javascript
@@ -34,6 +37,7 @@ For all of these, navigate to the coresponding folder and open the index.html wi
 [How to install Java Development Kit(JDK)](https://docs.oracle.com/en/java/javase/21/install/installation-jdk-microsoft-windows-platforms.html#GUID-A740535E-9F97-448C-A141-B95BF1688E6F)
 
 `javac ./java/HelloWorld.java`
+
 `java ./java/HelloWorld`
 
 ### PHP
@@ -52,10 +56,15 @@ I don't know how to run php on your local without installing something huge, mak
 
 For rust:
 `rustc ./rust/helloworld.rs`
+
 `./rust/helloworld`
+
 For the rust cargo project:
+
 `cd ./rust/hello_cargo`
+
 `cargo build`
+
 `./target/debug/hello_cargo`
 
 ### Zig
