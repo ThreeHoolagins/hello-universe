@@ -74,6 +74,14 @@ I don't know how to run php on your local without installing something huge, mak
 
 `Rscript ./r/helloworld.R`
 
+### Ruby
+---
+This was a pain for me, I ended up using a windows ruby installer, but here's the doccumenation
+
+[How to install ruby](https://www.ruby-lang.org/en/documentation/installation/)
+
+`ruby ./ruby/helloworld.rb`
+
 ### Rust | Compiled
 ---
 [Rust Programming Language Handbook: Installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
