@@ -50,6 +50,12 @@ I don't know how to run php on your local without installing something huge, mak
 
 `python ./python/helloworld.py`
 
+### R
+---
+[How to install R](https://www.dataquest.io/blog/installing-r-on-your-computer/)
+
+`Rscript ./r/helloworld.R`
+
 ### Rust | Compiled
 ---
 [Rust Programming Language Handbook: Installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
