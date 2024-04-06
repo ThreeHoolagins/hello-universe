@@ -92,7 +92,7 @@ cargo build
 ./target/debug/hello_cargo
 ```
 
-## [Zig](https://ziglang.org/learn/getting-started/).
+## [Zig](https://ziglang.org/learn/getting-started/)
 ```
 zig run ./zig/helloworld.zig
 ```
