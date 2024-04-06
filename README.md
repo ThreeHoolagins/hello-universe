@@ -2,106 +2,111 @@
 A small repo dedicated to hello world projects of every language
 
 # Running the universe
-There's a lot here, I'm gonna link both installations, and the commands to run them for you at home!
 
-### C | Compiled
+Since there's a lot here, the headers will be hyperlinked with the install guides, and the how to run below each header.
+
+### [C](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170) | Compiled
 ---
-[How to install C](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170)
 
-`cl ./c/helloworld.c`
+```
+cl ./c/helloworld.c
+./c/helloworld
+```
 
-`./c/helloworld`
-
-### C++ | Compiled
+### [C++](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170) | Compiled
 ---
-[How to install C++](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170)
 
-`cl ./c++/helloworld.cpp`
+```
+cl ./c++/helloworld.cpp
+./c++/helloworld
+```
 
-`./c++/helloworld`
-
-### C# | Compiled
+### [C#](https://www.geeksforgeeks.org/how-to-execute-c-sharp-program-on-cmd-command-line/) | Compiled
 ---
-[How to install C#](https://www.geeksforgeeks.org/how-to-execute-c-sharp-program-on-cmd-command-line/)
 
-`csc ./c#/helloworld.cs`
-
-`./c#/helloworld`
+```
+csc ./c#/helloworld.cs
+./c#/helloworld
+```
 
 ### CSS, HTML, and Javascript
 ---
 For all of these, navigate to the coresponding folder and open the index.html with your standard web browser.
 
-### Go
+### [Go](https://go.dev/doc/install)
 ---
-[How to install Go](https://go.dev/doc/install)
 
-`go run ./go/helloworld.go`
+```
+go run ./go/helloworld.go
+```
 
-### Java | Compiled
+### [Java](https://docs.oracle.com/en/java/javase/21/install/installation-jdk-microsoft-windows-platforms.html#GUID-A740535E-9F97-448C-A141-B95BF1688E6F) | Compiled
 ---
-[How to install Java Development Kit(JDK)](https://docs.oracle.com/en/java/javase/21/install/installation-jdk-microsoft-windows-platforms.html#GUID-A740535E-9F97-448C-A141-B95BF1688E6F)
 
-`javac ./java/HelloWorld.java`
+```
+javac ./java/HelloWorld.java
+java ./java/HelloWorld
+```
 
-`java ./java/HelloWorld`
-
-### Perl
+### [Perl](https://www.perl.org/get.html)
 ---
-Perl is installed on most computers, check:
+Perl is installed on most computers, to confirm it's on yours, check:
 
-`perl -v`
+```
+perl -v
+```
 
 To confirm it is installed on your computer
 
-[How to install Perl](https://www.perl.org/get.html)
-
-`perl ./perl/helloworld.pl`
+```
+perl ./perl/helloworld.pl
+```
 
 ### PHP
 ---
 I don't know how to run php on your local without installing something huge, make a pull request to fix this if there is a simple way
 
-### Python
+### [Python](https://wiki.python.org/moin/BeginnersGuide/Download)
 ---
-[How to install python](https://wiki.python.org/moin/BeginnersGuide/Download)
 
-`python ./python/helloworld.py`
+```
+python ./python/helloworld.py
+```
 
-### R
+### [R](https://www.dataquest.io/blog/installing-r-on-your-computer/)
 ---
-[How to install R](https://www.dataquest.io/blog/installing-r-on-your-computer/)
 
-`Rscript ./r/helloworld.R`
+```
+Rscript ./r/helloworld.R
+```
 
-### Ruby
+### [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 ---
 This was a pain for me, I ended up using a windows ruby installer, but here's the doccumenation
 
-[How to install ruby](https://www.ruby-lang.org/en/documentation/installation/)
+```
+ruby ./ruby/helloworld.rb
+```
 
-`ruby ./ruby/helloworld.rb`
-
-### Rust | Compiled
+### [Rust](https://doc.rust-lang.org/book/ch01-01-installation.html) | Compiled
 ---
-[Rust Programming Language Handbook: Installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
 
 For rust:
-
-`rustc ./rust/helloworld.rs`
-
-`./rust/helloworld`
+```
+rustc ./rust/helloworld.rs
+./rust/helloworld
+```
 
 For the rust cargo project:
+```
+cd ./rust/hello_cargo
+cargo build
+./target/debug/hello_cargo
+```
 
-`cd ./rust/hello_cargo`
-
-`cargo build`
-
-`./target/debug/hello_cargo`
-
-### Zig
+### [Zig](https://ziglang.org/learn/getting-started/).
 ---
-[Zig Installation Instructions](https://ziglang.org/learn/getting-started/).
 
-`zig run ./zig/helloworld.zig`
+```
+zig run ./zig/helloworld.zig
+```
