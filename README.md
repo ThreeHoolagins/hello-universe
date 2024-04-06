@@ -32,6 +32,12 @@ There's a lot here, I'm gonna link both installations, and the commands to run t
 ---
 For all of these, navigate to the coresponding folder and open the index.html with your standard web browser.
 
+### Go
+---
+[How to install Go](https://go.dev/doc/install)
+
+`go run ./go/helloworld.go`
+
 ### Java | Compiled
 ---
 [How to install Java Development Kit(JDK)](https://docs.oracle.com/en/java/javase/21/install/installation-jdk-microsoft-windows-platforms.html#GUID-A740535E-9F97-448C-A141-B95BF1688E6F)
