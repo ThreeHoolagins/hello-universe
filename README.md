@@ -1,5 +1,6 @@
 # hello-universe
-A small repo dedicated to hello world projects of every language
+There is an ongoing joke amoungst newer software engineers and developers in which new developers put every language they have written a single line of code in on their resume, including a hello world program.
+So, in line with this common joke, here is my proof, by the standards of aspiring software developers without any experience, that I know every programming language.
 
 # Running the universe
 
