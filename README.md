@@ -3,8 +3,8 @@ There is an ongoing joke amoungst newer software engineers and developers in whi
 So, in line with this common joke, here is my proof, by the standards of aspiring software developers without any experience, that I know every programming language.
 
 # Running the universe
-
-Since there's a lot here, the headers will be hyperlinked with the install guides, and the how to run below each header.
+> [!NOTE]
+> Since there's a lot here, the headers will be hyperlinked with the install guides, and the how to run below each header.
 
 ## [C](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170) | Compiled
 
