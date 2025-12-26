@@ -42,6 +42,13 @@ javac ./java/HelloWorld.java
 java ./java/HelloWorld
 ```
 
+## [Kotlin](https://kotlinlang.org/docs/command-line.html#create-and-run-an-application) | Compiled
+
+```
+kotlinc ./kotlin/helloworld.kt -include-runtime -d hello.jar
+java -jar hello.jar
+```
+
 ## [Perl](https://www.perl.org/get.html)
 Perl is installed on most computers, to confirm it's on yours, check:
 

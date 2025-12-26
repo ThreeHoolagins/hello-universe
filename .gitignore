@@ -5,3 +5,4 @@
 *.o
 *.lock
 /rust/hello_cargo/target/*
+*.jar
