@@ -100,6 +100,12 @@ cargo build
 ./target/debug/hello_cargo
 ```
 
+## [Scala](https://www.scala-lang.org/download/)
+
+```
+scala ./scala/helloworld.scala
+```
+
 ## [Zig](https://ziglang.org/learn/getting-started/)
 ```
 zig run ./zig/helloworld.zig

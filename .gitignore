@@ -6,3 +6,5 @@
 *.lock
 /rust/hello_cargo/target/*
 *.jar
+/scala/.bsp
+/scala/.scala-build
